@@ -1,4 +1,11 @@
-## Hi there 👋
+## Welcome to my "GitHome"!
+
+![Image](https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg)
+
+
+
+
+
 
 <!--
 **h4ckd0n/h4ckd0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
