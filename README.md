@@ -19,9 +19,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="70px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original-wordmark.svg" width="100px" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="80px" />
-          
-          
 
+ ----------------------------------------      
+
+![hackd0n GitHub stats](https://github-readme-stats.vercel.app/api?username=hackd0n&hide=contribs,prs)
           
 
 
