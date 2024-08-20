@@ -3,8 +3,14 @@
 ![Image](https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg)
 
 
+💥Olá, meu nome é Thiago "SprintDev"!
 
+🏆Sou Tecnólogo em análise e desenvolvimento de sistemas, pós graduado em DevOps.
 
+📝[Acesse meu portifólio](https://devbook.app/p/thiagosilva)
+
+--------------------
+### My Skills:
 
 
 <!--
